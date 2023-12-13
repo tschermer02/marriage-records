@@ -1,0 +1,31 @@
+names:
+- '2'
+- Avanti di me
+- Numero
+- addi
+- anni
+- di
+- e d
+- figlia d
+- figlio d
+- l
+- meridiane
+- milleottocentosettanta
+- minuti
+- nata
+- nato in
+- ore
+- presentat
+- presente
+- presenti
+- residente
+nc: 20
+roboflow:
+  license: CC BY 4.0
+  project: mr-jfydd
+  url: https://universe.roboflow.com/marrigerecordprocessing/mr-jfydd/dataset/8
+  version: 8
+  workspace: marrigerecordprocessing
+test: ../test/images
+train: MR-8/train/images
+val: MR-8/valid/images
